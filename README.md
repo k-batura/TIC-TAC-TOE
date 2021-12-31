@@ -1,3 +1,3 @@
 # TIC-TAC-TOE
 
-Simle TIC TAC TOE game on C++
+Simple TIC TAC TOE game on C++
